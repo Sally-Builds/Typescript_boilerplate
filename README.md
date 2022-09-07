@@ -1,2 +1,2 @@
 # Typescript_boilerplate
-Typescript boilerplate nodejs
+Typescript class blased nodejs server
